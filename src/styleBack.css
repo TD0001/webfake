@@ -8,6 +8,7 @@ a:visited {
 
 a:hover {
   text-decoration: underline;
+
 }
 
 a:active {
@@ -70,9 +71,9 @@ a:active {
             }
                    .canvas .header .sign_in .icon_signin
                    {
-                        width: 28px;
-                            height: 25px;
-                            margin-top: 25px;
+                       width: 28px;
+                       height: 25px;
+                       margin-top: 25px;
 
                    }
                     .canvas .header .sign_in .signin_button
@@ -310,11 +311,11 @@ a:active {
                                     }
 
                                 .canvas .content .column2 .first .detail .target{
-                                        margin-left: 18px;
-                                         margin-top: -8px;
+                                            margin-left: 18px;
+                                            margin-top: -8px;
 
-                                                    display: flex;
-                                        flex-direction: row;
+                                            display: flex;
+                                            flex-direction: row;
                                 }
 
                                 .canvas .content .column2 .first .detail .age
